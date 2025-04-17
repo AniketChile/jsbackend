@@ -1,5 +1,0 @@
-1. Every user can subs to each channel
-2. Every channel can have multiple user 
-3. For to count the each subs for each channel the statergy will be - 1. we will create the document which will bind the user and the channel he have subscribe to and the channel will be having this info.
-                                                                      2. Then we want to display the subscr count will be simply use the query in the channel and not in the user because the channel will be 1-5 million subscriber which can be a headache so simply run the query on the channel which will was that document and based on that document we will get the user count.
-                                                                      
